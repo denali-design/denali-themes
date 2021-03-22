@@ -1,0 +1,27 @@
+{
+  "name": "denali-themes",
+  "version": "1.0.0",
+  "description": "This repo contains all open-source themes created by the Denali Team and the community.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/denali-design/denali-themes.git"
+  },
+  "keywords": [
+    "denali",
+    "css",
+    "themes"
+  ],
+  "author": "Chas Turansky",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/denali-design/denali-themes/issues"
+  },
+  "homepage": "https://denali-design.github.io/denali-themes/",
+  "dependencies": {
+    "denali-css": "^2.2.4"
+  }
+}
